@@ -96,6 +96,6 @@ for k in range(10):
     geoff.forward(distance)
     geoff.right(90)
 
-    distance = distance + 10
+    distance = distance + 11
 
 window.close_on_mouse_click()
